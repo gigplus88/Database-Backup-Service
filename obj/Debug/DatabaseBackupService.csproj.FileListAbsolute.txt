@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\DatabaseBackupService\bin\Debug\DatabaseBackupService.exe.config
+C:\Users\PC\source\repos\DatabaseBackupService\bin\Debug\DatabaseBackupService.exe
+C:\Users\PC\source\repos\DatabaseBackupService\bin\Debug\DatabaseBackupService.pdb
+C:\Users\PC\source\repos\DatabaseBackupService\obj\Debug\DatabaseBackupService.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DatabaseBackupService\obj\Debug\DatabaseBackupService.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DatabaseBackupService\obj\Debug\DatabaseBackupService.exe
+C:\Users\PC\source\repos\DatabaseBackupService\obj\Debug\DatabaseBackupService.pdb
+C:\Users\PC\source\repos\DatabaseBackupService\obj\Debug\DatabaseBackupService.exe.config
